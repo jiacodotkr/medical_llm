@@ -21,7 +21,7 @@
 - Python 3.8+
 - LangChain, OpenAI GPT-4o API
 - FAISS (벡터 데이터베이스)
-- Streamlit(옵션)
+- Streamlit
 - pip, Git, VS Code
 
 ---
